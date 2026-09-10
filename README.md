@@ -73,4 +73,4 @@ Excel — PivotTables, PivotCharts, slicers, What-If Data Table analysis.
 
 **Akshat Arya**
 📫 [akshatarya81@gmail.com](mailto:akshatarya81@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/akshat-arya-a6644740b) · [GitHub](github.com/The-Akshat-Arya)
+🔗 [LinkedIn](https://www.linkedin.com/in/akshat-arya-a6644740b) · [GitHub](https://github.com/The-Akshat-Arya)
